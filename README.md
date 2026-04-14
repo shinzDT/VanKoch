@@ -14,4 +14,4 @@ sau đó dựng tam giác đều ở đoạn giữa.
 Quá trình được lặp lại đệ quy theo level.
 
 ## Tham số
-- level: số lần đệ quy
+- level: số lần đệ quy với min là 0, max là 6
